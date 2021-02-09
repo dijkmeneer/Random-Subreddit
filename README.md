@@ -1,6 +1,9 @@
 # Random-Subreddit
 Random subreddit generator using r/random with a subscriber filter
 
+The anti duplicate script is so that you dont get any duplicate subreddits, choose the run.py script if you want duplicates to appear
+
+
 
 
 # to install
